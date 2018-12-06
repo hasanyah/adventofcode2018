@@ -37,5 +37,4 @@ outer:
 	}
 
 	fmt.Printf("%d\n", result)
-
 }
